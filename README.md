@@ -24,6 +24,10 @@ Power BI Service
 ### Approach
 Environment Setup
 Azure Subscription
+
+## Solution Architecture Overview : 
+<img width="917" height="493" alt="image" src="https://github.com/user-attachments/assets/0a38102b-8cbf-4c37-aca2-580d486b25d0" />
+
 Data Factory
 Azure Blob Storage Account
 Data Lake Storage Gen2
